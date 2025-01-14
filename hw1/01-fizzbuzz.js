@@ -10,20 +10,23 @@ Use console.log() to write the proper output to the command line.
 **/
 
 const fizzbuzz = () => {
-  for (let i = 1; i <= 100; i++) {
-    const divBy3 = i % 3 == 0;
-    const divBy5 = i % 5 == 0;
-
-    if (divBy3 && divBy5) {
-      console.log("fizzbuzz");
-    } else if (divBy3) {
-      console.log("fizz");
-    } else if (divBy5) {
-      console.log("buzz");
-    } else {
-      console.log(i);
-    }
-  }
+  // Add your code here
 };
 
 fizzbuzz();
+// 1
+// 2
+// fizz
+// 4
+// buzz
+// fizz
+// 7
+// 8
+// fizz
+// buzz
+// 11
+// fizz
+// 13
+// 14
+// fizzbuzz
+// ...
