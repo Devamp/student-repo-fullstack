@@ -13,9 +13,9 @@
      - Prettier
      - Git Lens
 
-3. Set up [SSH keys for GitHub](https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/connecting-to-github-with-ssh).
+3. Sign up for a GitHub account and the [GitHub Student Pack](https://education.github.com/pack).
 
-4. (optional) Sign up for a GitHub account and the [GitHub Student Pack](https://education.github.com/pack).
+4. Set up [SSH keys for GitHub](https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/connecting-to-github-with-ssh).
 
 ### Setting up the Homework Repo (with SSH)
 
