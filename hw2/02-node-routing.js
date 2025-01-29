@@ -8,9 +8,7 @@ const server = http.createServer((req, res) => {
   // conditionally render the response based on the request url
   if (url === "/") {
     res.writeHead(200, { "Content-Type": "text/html" });
-    res.write(
-      "<h2>Landing page... nothing to see here. Valid routes: /welcome, /redirect, /cache, /cookie <h2>"
-    );
+    res.write("Node Routing Exercise");
     res.end();
   } else if (url === "/welcome") {
     res.writeHead(200, { "Content-Type": "text/html" });
